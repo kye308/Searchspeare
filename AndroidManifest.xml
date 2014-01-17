@@ -18,7 +18,8 @@
 
         <!-- The default activity of the app; displays search results. -->
         <activity android:name=".Searchspeare"
-                  android:launchMode="singleTop">
+                  android:launchMode="singleTop"
+                   android:configChanges="orientation|screenSize" >
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -38,7 +39,8 @@
         </activity>
 
         <!-- Displays the quote and its location. -->
-        <activity android:name=".QuoteActivity" />
+        <activity android:name=".QuoteActivity" 
+             android:configChanges="orientation|screenSize"/>
 
         <provider android:name=".QuoteProvider"
                 android:authorities="com.hopps.bob.searchspeare.DictionaryProvider"

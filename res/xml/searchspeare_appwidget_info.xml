@@ -7,6 +7,5 @@
     android:initialLayout="@layout/searchspeare_appwidget"
     android:configure="com.hopps.bob.SearchspeareWidgetConfigure" 
     android:resizeMode="horizontal|vertical"
-    android:widgetCategory="home_screen|keyguard"
-    android:initialKeyguardLayout="@layout/example_keyguard">
+    android:widgetCategory="home_screen|keyguard">
 </appwidget-provider>

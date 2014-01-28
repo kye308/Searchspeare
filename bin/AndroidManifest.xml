@@ -51,7 +51,8 @@
         <meta-data android:name="android.app.default_searchable"
                    android:value=".QuoteDictionary" />
         
-        <receiver android:name="SearchspeareWidgetProvider" >
+    <!-- Commenting out widget for app release    
+    <receiver android:name="SearchspeareWidgetProvider" >
     	<intent-filter>
         	<action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
     	</intent-filter>
@@ -59,7 +60,7 @@
     <meta-data android:name="android.appwidget.provider"
                android:resource="@xml/searchspeare_appwidget_info" />
     
-</receiver>
+	</receiver> -->
 
     </application>
 </manifest>

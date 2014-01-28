@@ -1,3 +1,62 @@
-cheek - n. a word I call myself - Hamlet V.i
-tempt - v. a word I can't define - kevin
-cheek - n. a word I call Kevin - Hamlet V.ii
+morning % the morn in russet mantle clad % Hamlet I.i
+russet % the morn in russet mantle clad % Hamlet I.i
+mantle % the morn in russet mantle clad % Hamlet I.i
+clad % the morn in russet mantle clad % Hamlet I.i
+kin % A little more than kin and less than kind % Hamlet I.ii
+kind % A little more than kin and less than kind % Hamlet I.ii
+frail % frailty, thy name is woman! % Hamlet I.ii
+frailty % frailty, thy name is woman! % Hamlet I.ii
+woman % frailty, thy name is woman! % Hamlet I.ii
+true % This above all: to thine own self be true % Hamlet I.iii
+thine % This above all: to thine own self be true % Hamlet I.iii
+rotten % Something is rotten in the state of Denmark % Hamlet I.iv
+Denmark % Something is rotten in the state of Denmark % Hamlet I.iv
+state % Something is rotten in the state of Denmark % Hamlet I.iv
+smile % one may smile and smile and be a villain % Hamlet I.v
+villain % one may smile and smile and be a villain % Hamlet I.v
+wit % brevity is the soul of wit % Hamlet II.ii
+brevity % brevity is the soul of wit % Hamlet II.ii
+soul % brevity is the soul of wit % Hamlet II.ii
+Polonius % brevity is the soul of wit % Hamlet II.ii
+brevity % More matter with less art % Hamlet II.ii
+madness % Though this be madness, yet there is method in 't % Hamlet II.ii
+feign % Though this be madness, yet there is method in 't % Hamlet II.ii 
+method % Though this be madness, yet there is method in 't % Hamlet II.ii
+man % What piece of work is a man % Hamlet II.ii
+work % What piece of work is a man % Hamlet II.ii
+rogue % O, what a rogue and peasant slave am I! % Hamlet II.ii
+slave % O, what a rogue and peasant slave am I! % Hamlet II.ii
+peasant % O, what a rogue and peasant slave am I! % Hamlet II.ii
+O % O, what a rogue and peasant slave am I! % Hamlet II.ii
+Hecuba % What's Hecuba to him, or he to Hecuba? % Hamlet II.ii
+emotion % What's Hecuba to him, or he to Hecuba? % Hamlet II.ii
+acting % What's Hecuba to him, or he to Hecuba? % Hamlet II.ii
+act % What's Hecuba to him, or he to Hecuba? % Hamlet II.ii
+devil % the devil hath power T'assume a pleasing shape % Hamlet II.ii
+shape % the devil hath power T'assume a pleasing shape % Hamlet II.ii
+question % To be or not to be - that is the question % Hamlet III.i
+suicide % To be or not to be - that is the question % Hamlet III.i
+praise % The glass of fashion and the mold of form, Th' observed of all observers % Hamlet III.i
+Hamlet % The glass of fashion and the mold of form, Th' observed of all observers % Hamlet III.i
+action % Suit the action to the word, the word to the action % Hamlet III.ii
+word % Suit the action to the word, the word to the action % Hamlet III.ii
+king % A king of shreds and patches % Hamlet III.iv
+shreds % A king of shreds and patches % Hamlet III.iv
+patches % A king of shreds and patches % Hamlet III.iv
+shred % A king of shreds and patches % Hamlet III.iv
+patch % A king of shreds and patches % Hamlet III.iv
+patchy % A king of shreds and patches % Hamlet III.iv
+king % There's such divinity doth hedge a king % Hamlet IV.v
+divinity % There's such divinity doth hedge a king % Hamlet IV.v
+Yorick % Alas, poor Yorick! I knew him Horatio % Hamlet V.i
+death % Alas, poor Yorick! I knew him Horatio % Hamlet V.i
+Caesar % Imperious Caesar, dead and turned to clay % Hamlet V.ii
+death % Imperious Caesar, dead and turned to clay % Hamlet V.ii
+sweet % Sweets to the sweet % Hamlet V.i
+death % Sweets to the sweet % Hamlet V.i
+Ophelia % Sweets to the sweet % Hamlet V.i
+divinity % There's a divinity that shapes our ends % Hamlet V.ii
+providence % There is a special providence in the fall of a sparrow % Hamlet V.ii
+divinity % There is a special providence in the fall of a sparrow % Hamlet V.ii
+fall % There is a special providence in the fall of a sparrow % Hamlet V.i
+sparrow % There is a special providence in the fall of a sparrow % Hamlet V.ii

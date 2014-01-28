@@ -32,9 +32,9 @@ public class QuoteDatabase {
     public static final String KEY_QUOTE = SearchManager.SUGGEST_COLUMN_TEXT_2;
     public static final String KEY_LOCATION = "suggest_play_location";
 
-    private static final String DATABASE_NAME = "dictionary";
-    private static final String FTS_VIRTUAL_TABLE = "FTSdictionary";
-    private static final int DATABASE_VERSION = 2;
+    public static final String DATABASE_NAME = "dictionary";
+    public static final String FTS_VIRTUAL_TABLE = "FTSdictionary";
+    private static final int DATABASE_VERSION = 8;
 
     private final DictionaryOpenHelper mDatabaseOpenHelper;
     private static final HashMap<String,String> mColumnMap = buildColumnMap();
@@ -45,6 +45,7 @@ public class QuoteDatabase {
      */
     public QuoteDatabase(Context context) {
         mDatabaseOpenHelper = new DictionaryOpenHelper(context);
+        SearchspeareWidgetProvider.setDictionaryOpenHelper(mDatabaseOpenHelper);
     }
 
     /**
@@ -143,7 +144,7 @@ public class QuoteDatabase {
     /**
      * This creates/opens the database.
      */
-    private static class DictionaryOpenHelper extends SQLiteOpenHelper {
+    public static class DictionaryOpenHelper extends SQLiteOpenHelper {
 
         private final Context mHelperContext;
         private SQLiteDatabase mDatabase;
@@ -195,7 +196,7 @@ public class QuoteDatabase {
             try {
                 String line;
                 while ((line = reader.readLine()) != null) {
-                    String[] strings = TextUtils.split(line, "-");
+                    String[] strings = TextUtils.split(line, "%");
                   
                     long id = addWord(strings[0].trim(), strings[1].trim(), strings[2].trim());
                     Log.d(TAG, "Added word: " + strings[0].trim() + " " + strings[1].trim() + " " + strings[2].trim());

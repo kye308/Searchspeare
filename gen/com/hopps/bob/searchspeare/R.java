@@ -19,6 +19,7 @@ public final class R {
          */
         public static final int activity_horizontal_margin=0x7f060000;
         public static final int activity_vertical_margin=0x7f060001;
+        public static final int widget_margin=0x7f060002;
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
@@ -30,8 +31,10 @@ public final class R {
         public static final int list=0x7f0b0001;
         public static final int location=0x7f0b0003;
         public static final int quote=0x7f0b0002;
-        public static final int search=0x7f0b0004;
+        public static final int search=0x7f0b0006;
         public static final int text=0x7f0b0000;
+        public static final int widloc=0x7f0b0005;
+        public static final int widquote=0x7f0b0004;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -49,6 +52,7 @@ public final class R {
     }
     public static final class raw {
         public static final int quotes=0x7f050000;
+        public static final int utfquotes=0x7f050001;
     }
     public static final class string {
         /**  The name of the application. 
